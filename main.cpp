@@ -339,7 +339,7 @@ extern "C" void* ThreadStats(void*) {
   } while(1);
 }
 
-static const string mainnet_seeds[] = {"seed.grw.blockx.info", "seed1.grw.acidpool.com", ""};
+static const string mainnet_seeds[] = {"seed.grw.blockx.info", "67.211.45.68", "108.61.18.94", ""};
 static const string testnet_seeds[] = {""};
 static const string *seeds = mainnet_seeds;
 
